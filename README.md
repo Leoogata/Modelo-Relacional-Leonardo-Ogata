@@ -190,8 +190,14 @@
 
 ![Diagrama](assets/Modelo-relaconal.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este diagrama simplificado ilustra os relacionamentos entre as entidades do modelo relacional. Cada entidade é representada por um retângulo, e os relacionamentos são indicados por linhas conectando as entidades.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esse diagrama mostra como diferentes entidades estão conectadas no modelo relacional. Cada entidade é representada por um retângulo, e as linhas entre elas representam os relacionamentos.
 
 ## Conclusão
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com essa modelagem de banco de dados atende às necessidades do sistema do projeto Abandono Zero, permitindo o gerenciamento eficiente das informações dos usuários e suas respostas nos formulários. A modelagem apresenta as entidades, seus atributos e os relacionamentos entre elas, proporcionando uma visão clara e organizada do banco de dados. As regras de negócio garantem a integridade e a consistência dos dados.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Essa estrutura de banco de dados foi projetada para atender às exigências do sistema do projeto Abandono Zero, oferecendo uma forma eficaz de gerenciar as informações dos usuários e suas respostas nos formulários. O modelo detalha as entidades, seus atributos e os vínculos entre elas, proporcionando uma representação organizada e compreensível do banco de dados. As diretrizes de negócio asseguram que os dados se mantenham íntegros e consistentes.
+
+
+
+
+
+
